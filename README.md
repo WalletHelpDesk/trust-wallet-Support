@@ -1,2 +1,2 @@
-# trust-wallet-Support
+# Trust-Wallet-Support
 Authentication 
