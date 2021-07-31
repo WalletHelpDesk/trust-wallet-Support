@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## The most trusted & secured crypto wallet 
 
-You can use the [editor on GitHub](https://github.com/WalletHelpDesk/trust-wallet-Support/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The mid year give away  [editor on GitHub](https://github.com/WalletHelpDesk/trust-wallet-Support/edit/gh-pages/index.md) is now officially launched .
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Tokens
+## Finance
+### collectibles
 
 - Bulleted
 - List
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Claim** your _Token _ and `Here` text
 
 [Link](url) and ![Image](src)
 ```
